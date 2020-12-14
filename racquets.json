@@ -42,7 +42,50 @@
      "SwingWeight":332,
      "Stiffness":62,
      "BuySite":"https://www.tennis-warehouse.com/Head_Graphene_360_Gravity_Pro_/descpageRCHEAD-HGPG36.html"
+    },
+    {
+     "Manufacturer":"Head",
+     "Model":"Prestige MP",
+     "ID":4,
+     "Image":"https://img.tennis-warehouse.com/watermark/rs.php?path=BPAR-1.jpg",
+     "Description":"The iconic Prestige Midplus gets a major overhaul for 2020! Boasting a new mold with a thinner beam and reengineered sweetspot, this traditional player's racquet is stable without being unwieldy. With its thin 20mm beam, arm-friendly flex (61RA) and dense 18x20 string pattern, this update lives up to its Prestige pedigree - think best of class levels of control and feel.",
+     "HeadSize":"98 sq. in.",
+     "Length":"27 in.",
+     "Weight":"11.9 oz",
+     "Balance":"7 pts HL",
+     "SwingWeight":323,
+     "Stiffness":61,
+     "BuySite":"https://www.tennis-warehouse.com/Head_Graphene_360_Prestige_Midplus/descpageRCHEAD-HPRMPR.html"
+    },
+    {
+     "Manufacturer":"Wilson",
+     "Model":"Blade 98",
+     "ID":5,
+     "Image":"https://img.tennis-warehouse.com/watermark/rs.php?path=BPAR-1.jpg",
+     "Description":"With the 2019 update to the Blade 98 (16x19), Wilson doubles down on the outstanding feel for which the Blade series is known. This update to the Blade 98 (16x19) is a solid addition to one of the game's great racquet franchises. Players looking for a classic feeling Blade with some modern spin and power should be right at home with this very impressive update.",
+     "HeadSize":"98 sq. in.",
+     "Length":"27 in.",
+     "Weight":"11.4 oz",
+     "Balance":"4 pts HL",
+     "SwingWeight":328,
+     "Stiffness":62,
+     "BuySite":"https://www.tennis-warehouse.com/Wilson_Blade_98_16x19_v7/descpageRCWILSON-WB98R.html"
+    },
+    {
+     "Manufacturer":"Wilson",
+     "Model":"Clash 100",
+     "ID":6,
+     "Image":"https://img.tennis-warehouse.com/watermark/rs.php?path=BPAR-1.jpg",
+     "Description":"Introducing the Clash 100, a uniquely flexible racquet with explosive speed, easy spin and great feel. At 11 ounces strung and boasting a low 312-RDC swingweight, this stick is ideal for the intermediate player who wants ultra easy acceleration. With its raw speed and outstanding feel, Wilson has created an impressive weapon for those who want a light player's racquet.",
+     "HeadSize":"100 sq. in.",
+     "Length":"27 in.",
+     "Weight":"11.0 oz",
+     "Balance":"7 pts HL",
+     "SwingWeight":312,
+     "Stiffness":55,
+     "BuySite":"https://www.tennis-warehouse.com/Wilson_Clash_100/descpageRCWILSON-WC100R.html"
     }
+
   ],
   "Status":"OK"
 }
