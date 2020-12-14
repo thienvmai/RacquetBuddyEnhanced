@@ -14,6 +14,20 @@
      "SwingWeight":324,
      "Stiffness":67,
      "BuySite":"https://www.tennis-warehouse.com/Babolat_Pure_Aero/descpageRCBAB-BPAR.html"
+    },
+    {
+     "Manufacturer":"Babolat2",
+     "Model":"Pure Aero",
+     "ID":2,
+     "Image":"https://img.tennis-warehouse.com/watermark/rs.php?path=BPAR-1.jpg",
+     "Description":"Specializing in spin and power, the Babolat Pure Aero is one of the game's most legendary racquets. At 11.2 ounces strung, this stick is ideal for hard                       charging intermediate players, but it should also work very well for the advanced ball striker who is looking to go on offense. The Pure Aero remains a                       very obvious choice for aggressive baseliners looking to control the action with pace and spin.",
+     "HeadSize":"100 sq. in.",
+     "Length":"27 in.",
+     "Weight":"11.4 oz",
+     "Balance":"4 pts HL",
+     "SwingWeight":324,
+     "Stiffness":67,
+     "BuySite":"https://www.tennis-warehouse.com/Babolat_Pure_Aero/descpageRCBAB-BPAR.html"
     }
   ],
   "Status":"OK"
